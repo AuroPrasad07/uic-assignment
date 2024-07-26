@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uic-assignment/static/css/main.5afcfb1a.css",
+    "main.js": "/uic-assignment/static/js/main.679b9c9b.js",
+    "index.html": "/uic-assignment/index.html",
+    "main.5afcfb1a.css.map": "/uic-assignment/static/css/main.5afcfb1a.css.map",
+    "main.679b9c9b.js.map": "/uic-assignment/static/js/main.679b9c9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5afcfb1a.css",
+    "static/js/main.679b9c9b.js"
+  ]
+}
