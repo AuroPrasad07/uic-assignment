@@ -1,0 +1,47 @@
+.about-product {
+    padding: 3% 5%;
+    background-color: rgba(69, 68, 67, 0.702);
+    color: white;
+}
+.product-tour h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 4%;
+}
+.product-img {
+    padding: 0 19.5% 8% 19.5%;
+    border-bottom: 2px solid white;
+}
+.video-tour {
+    padding: 8% 5%;
+    text-align: center;
+}
+.video-tour span {
+    background-color: rgb(56, 56, 220);
+    font-size: 30px;
+    font-weight: 300;
+    padding: 1% 8%;
+    border-radius: 20px;
+}
+.videos {
+    margin: 5% 0 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.video-left {
+    max-height: 415px;
+    max-width: 35%;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+    scroll-behavior: smooth;
+    scrollbar-color: rgb(11, 11, 11) #616060;
+}
+.video-left iframe {
+    margin: 0 0 18% 0;
+    border-radius: 10px;
+}
+.video-right iframe {
+    border-radius: 10px;
+}

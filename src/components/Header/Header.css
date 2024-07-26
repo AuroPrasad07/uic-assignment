@@ -1,0 +1,75 @@
+.header{
+   background-image: linear-gradient(to bottom, rgba(0,0,0,0)0%, rgba(0,0,0,0)59%, rgba(0,0,0,0.65)100%)
+   ,url('https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?auto=compress&cs=tinysrgb&w=600');
+   height: 70vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.header-links {
+    padding: 1% 5%;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-end;
+}
+.search {
+    max-width: fit-content;
+}
+.search input {
+    border: none;
+    outline: none;
+    padding: 6px 15px;
+    font-size: 15px;
+    border-radius: 15px;
+    border: 1px solid black;
+}
+.search-icon {
+    position: relative;
+    top: 3px;
+    left: -24px;
+    font-size: larger;
+    cursor: pointer;
+}
+.header-links button {
+    padding: 8px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.menu {
+    font-size: 50px;
+    position: relative;
+    left: 92%;
+}
+.header-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 38%;
+    margin: 0 11%;
+}
+.header-text h1 {
+    color: white;
+    margin-bottom: 8px;
+    font-size: 40px;
+}
+.header-text p {
+    color: white;
+    margin: 0 100px 17px 100px;
+    text-align: center;
+    font-size: 25px;
+}
+.header-text button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: rgb(73, 73, 241, 0.8);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}

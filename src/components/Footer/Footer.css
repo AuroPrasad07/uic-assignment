@@ -1,0 +1,43 @@
+.footer-one {
+    background-color: black;
+    color: white;
+    padding: 4% 5%;
+    display: flex;
+    justify-content: space-around;
+    gap: 10%;
+}
+.first {
+    max-width: 40%;
+}
+.first h4 {
+    margin-bottom: 2%;
+}
+.second {
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+}
+.second h4 {
+    margin-bottom: 5%;
+}
+.blue-text {
+    color: blue;
+}
+.footer-two {
+    padding: 2% 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.social-icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 6px;
+}
+.social-icons h4 {
+    margin-right: 13px;
+}
+.social-icon {
+    font-size: 25px;
+}

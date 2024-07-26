@@ -1,0 +1,10 @@
+.hotels {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 2% 0;
+}
+.hotel-one img {
+    width: 10vw;
+    height: 15vh;
+}

@@ -1,0 +1,59 @@
+.hotels {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 4px;
+}
+.img-one {
+    background-image: url('https://th.bing.com/th/id/OIP.-wcXcPg9mUaWmMJuoWXgHgAAAA?rs=1&pid=ImgDetMain');
+    height: 55vh;
+    width: 50vw;
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.img-two {
+    background-image: url('https://th.bing.com/th/id/OIP.7vIJhBY3q_ycUEfeCc1P-AHaFI?w=610&h=423&rs=1&pid=ImgDetMain');
+    height: 55vh;
+    width: 50vw;
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.about-hotel {
+    background-color: rgba(0, 0, 0, 0.425);
+    color: white;
+    padding: 5% 6%;
+    max-width: fit-content;
+    position: relative;
+    top: 58%;
+    left: 68%;
+}
+.left {
+    position: relative;
+    top: 58%;
+    left: 0;
+}
+#hotel-name {
+    font-size: 25px;
+    margin-bottom: 4px;
+}
+.about-hotel p {
+    margin-bottom: 15px;
+}
+.btn {
+    background-color: white;
+    max-width: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn button {
+    border: none;
+    background-color: orange;
+    padding: 7px 14px;
+    font-size: 14px;
+    color: white;
+}
+.arrow-icon {
+    font-size: 30px;
+    color: rgb(82, 81, 81);
+}

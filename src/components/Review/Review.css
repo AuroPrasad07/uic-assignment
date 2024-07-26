@@ -1,0 +1,22 @@
+.main {
+    padding: 2% 6%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(214, 210, 205, 0.562);
+}
+.customer-img img {
+    width: 8vw;
+    height: 17vh;
+}
+.message {
+    margin-left: 1%;
+}
+#text {
+    padding: 0 0 1% 0;
+    line-height: 20px;
+}
+.message h5 {
+    font-size: 18px;
+    margin-bottom: 4px;
+}
